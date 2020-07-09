@@ -1,0 +1,10 @@
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\bin\Debug\spasegame 1 VS 1.exe.config
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\bin\Debug\spasegame 1 VS 1.exe
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\bin\Debug\spasegame 1 VS 1.pdb
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame 1 VS 1.csprojResolveAssemblyReference.cache
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame_1_VS_1.Form1.resources
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame_1_VS_1.Properties.Resources.resources
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame 1 VS 1.csproj.GenerateResource.Cache
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame 1 VS 1.exe
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame 1 VS 1.pdb
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\spasegame 1 VS 1\spasegame 1 VS 1\obj\Debug\spasegame 1 VS 1.csproj.CoreCompileInputs.cache

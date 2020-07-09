@@ -1,0 +1,10 @@
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\bin\Debug\SpaceFiters.exe.config
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\bin\Debug\SpaceFiters.exe
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\bin\Debug\SpaceFiters.pdb
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.Form1.resources
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.Properties.Resources.resources
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.csproj.GenerateResource.Cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.csproj.CoreCompileInputs.cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.exe
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.pdb
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceFiters\SpaceFiters\obj\Debug\SpaceFiters.csprojResolveAssemblyReference.cache

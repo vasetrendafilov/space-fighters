@@ -1,0 +1,10 @@
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form1.resources
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache

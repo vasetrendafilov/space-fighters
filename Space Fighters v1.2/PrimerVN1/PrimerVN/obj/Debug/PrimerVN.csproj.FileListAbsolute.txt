@@ -1,0 +1,9 @@
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\obj\Debug\PrimerVN.csprojResolveAssemblyReference.cache
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\obj\Debug\PrimerVN.Form1.resources
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\obj\Debug\PrimerVN.Properties.Resources.resources
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\obj\Debug\PrimerVN.csproj.GenerateResource.Cache
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\bin\Debug\PrimerVN.exe.config
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\bin\Debug\PrimerVN.exe
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\bin\Debug\PrimerVN.pdb
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\obj\Debug\PrimerVN.exe
+c:\users\vase_\onedrive\documents\visual studio 2017\Projects\PrimerVN1\PrimerVN\obj\Debug\PrimerVN.pdb

@@ -1,0 +1,15 @@
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\bin\Debug\SpaceGameBeta.exe.config
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\bin\Debug\SpaceGameBeta.exe
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\bin\Debug\SpaceGameBeta.pdb
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\bin\Debug\Interop.WMPLib.dll
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.csprojResolveAssemblyReference.cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\Interop.WMPLib.dll
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.csproj.ResolveComReference.cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.Form1.resources
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.Properties.Resources.resources
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.csproj.GenerateResource.Cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.csproj.CoreCompileInputs.cache
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.exe
+C:\Users\vase_\OneDrive\Documents\Visual Studio 2017\Projects\SpaceGameBeta\SpaceGameBeta\obj\Debug\SpaceGameBeta.pdb
